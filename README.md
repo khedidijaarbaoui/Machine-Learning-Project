@@ -1,5 +1,6 @@
-This project focuses on predicting students' final grades (G3) using machine learning models. It uses two datasets — one for Mathematics and one for Portuguese — and applies two main approaches: separate modeling on each dataset and a merged modeling approach. The goal is to evaluate and compare the performance of different regression models and analyze how hyperparameter tuning affects their accuracy.
+Machine Learning Project
 ---
+This project focuses on predicting students' final grades (G3) using machine learning models. It uses two datasets — one for Mathematics and one for Portuguese — and applies two main approaches: separate modeling on each dataset and a merged modeling approach. The goal is to evaluate and compare the performance of different regression models and analyze how hyperparameter tuning affects their accuracy.
 
  Dataset
 
